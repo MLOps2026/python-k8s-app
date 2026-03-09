@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/YOUR_GITHUB_USERNAME/python-k8s-app
+    repoURL: https://github.com/MLOps2026/python-k8s-app
     targetRevision: HEAD
     path: k8s
   destination:
